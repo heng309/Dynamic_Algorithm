@@ -1,4 +1,4 @@
-# Dynamic_Algorithm
+# Dynamic_Programming
 
 University of Florida
 
